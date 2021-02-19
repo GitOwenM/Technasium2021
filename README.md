@@ -35,3 +35,6 @@ Planning:
 |      | 30-4  | Einder keuzeproject 2                                                                                                                                                                                                      |             |
 | 16   | 05-5  | Geen les                                                                                                                                                                                                                   | Vakantie    |
 |      | 07-5  | Geen les                                                                                                                                                                                                                   | Vakantie    |
+
+Google Drive:
+https://docs.google.com/document/d/1a1peizJuSPXtc55tJLQ_Ty-KkSYVr5dP4HN5SW9Cacc/edit#
