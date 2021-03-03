@@ -37,4 +37,4 @@ Planning:
 |      | 07-5  | Geen les                                                                                                                                                                                                                   | Vakantie    |
 
 Google Drive:
-https://docs.google.com/document/d/1a1peizJuSPXtc55tJLQ_Ty-KkSYVr5dP4HN5SW9Cacc/edit#
+https://drive.google.com/drive/folders/1c4bBsIRNIOyva7WZmbAhaMpkHwuGwF0v?usp=sharing
