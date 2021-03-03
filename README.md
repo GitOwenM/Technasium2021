@@ -32,7 +32,7 @@ Planning:
 | 14   | 21-4  | Eindpresentaties Inleveren portfolio en eindverslag                                                                                                                                                                        |             |
 |      | 23-4  | Eindpresentaties Inleveren portfolio en eindverslag                                                                                                                                                                        |             |
 | 15   | 28-4  | Eindgesprekken                                                                                                                                                                                                             |             |
-|      | 30-4  | Einder keuzeproject 2                                                                                                                                                                                                      |             |
+|      | 30-4  | Einde keuzeproject 2                                                                                                                                                                                                      |             |
 | 16   | 05-5  | Geen les                                                                                                                                                                                                                   | Vakantie    |
 |      | 07-5  | Geen les                                                                                                                                                                                                                   | Vakantie    |
 
