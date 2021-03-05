@@ -3,10 +3,10 @@
 ### Google Drive:
 https://drive.google.com/drive/folders/1c4bBsIRNIOyva7WZmbAhaMpkHwuGwF0v?usp=sharing
 
-### Individuele opdrachten:
-\ Jasper: Code runnen en proberen te begrijpen
-\ Owen: Verdieping in MHCnuggets
-\ Hidde: Verdieping in Epitope Predictions
+### Individuele opdrachten:\
+Jasper: Code runnen en proberen te begrijpen\
+Owen: Verdieping in MHCnuggets\
+Hidde: Verdieping in Epitope Predictions
 
 ### Planning:
 | Week | Datum | Taak                                                                                                                                                                                                                       | Opmerkingen |
@@ -23,16 +23,33 @@ https://drive.google.com/drive/folders/1c4bBsIRNIOyva7WZmbAhaMpkHwuGwF0v?usp=sha
 |      | 19-2  | Overleg opdrachtgever Plannen volgend overleg met opdrachtgever Vragen docenten naar Planning op Itslearning \ Opstellen: \ Opdracht  \ GitHub-pagina \ Planning |             |
 | 06   | 24-2  | Geen les                                                                                                                                                                                                                   | Vakantie    |
 |      | 26-2  | Geen les                                                                                                                                                                                                                   | Vakantie    |
-| 07   | 03-3  | Planning verder invullen \ Opstellen: \ Acquisitieverslag \ Concrete taakverdeling                                               
+| 07   | 03-3  | Planning verder invullen\
+Opstellen:\
+Acquisitieverslag\
+Concrete taakverdeling                                               
 |             |
-|      | 05-3  |  Verdelen individuele opdrachten \ Opstellen: \ Team Ontwikkelplan [TOP] \ Persoonlijk Ontwikkelplan [POP]                                                                                                                                                                   |             |
-| 08   | 10-3  | Presentatie voortgang voor klasgenoten Werken aan onderzoek \ Opstellen: \ Plan van Aanpak [PvA] \ Plan van Eisen [PvE]                                                                                                                                                                |             |
+|      | 05-3  |  Verdelen individuele opdrachten\
+Opstellen:\
+Team Ontwikkelplan [TOP]\
+Persoonlijk Ontwikkelplan [POP]                                                                                                                                                                   |             |
+| 08   | 10-3  | Presentatie voortgang voor klasgenoten Werken aan onderzoek\
+Opstellen:\
+Plan van Aanpak [PvA]\
+Plan van Eisen [PvE]                                                                                                                                                                |             |
 |      | 12-3  | Werken aan onderzoek                                                                                                                                                                                                       |             |
 | 09   | 17-3  | Eventueel bezoek bedrijf Werken aan individuele delen                                                                                                                                                                      |             |
 |      | 19-3  | Werken aan individuele delen                                                                                                                                                                                               |             |
 | 10   | 24-3  | Start Meesterproef Werken aan individuele delen                                                                                                                                                                            |             |
 |      | 26-3  | Werken aan individuele delen                                                                                                                                                                                               |             |
-| 11   | 31-3  | Invoegen individuele delen in verslag \ Opstellen: \ Voorwoord \ Inhoudsopgave \ Inleiding \ Conclusie \ Nawoord \ Bijlagen                                                                                                        |             |
+| 11   | 31-3  | Invoegen individuele delen in verslag\
+Opstellen:\
+Voorwoord\
+Inhoudsopgave\
+Inleiding\
+Conclusie\
+Nawoord\
+Bijlagen                                                                                                     
+|             |
 |      | 02-4  | Werken aan het eindverslag                                                                                                                                                                                                 |             |
 | 12   | 07-4  | Werken aan het eindverslag                                                                                                                                                                                                 |             |
 |      | 09-4  |                                                                                                                                                                                        |             |
