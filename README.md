@@ -4,8 +4,8 @@
 https://drive.google.com/drive/folders/1c4bBsIRNIOyva7WZmbAhaMpkHwuGwF0v?usp=sharing
 
 ##### Individuele opdrachten:
-Jasper: Code runnen en proberen te begrijpen
-Owen: Verdieping in MHCnuggets
+Jasper: Code runnen en proberen te begrijpen\
+Owen: Verdieping in MHCnuggets\
 Hidde: Verdieping in Epitope Predictions
 
 ### Planning:
