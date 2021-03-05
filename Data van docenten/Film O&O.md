@@ -1,6 +1,4 @@
-## Informatie van docenten:
-
-### Filmpje technasium
+## Filmpje technasium
 
 #### Lange versie:
 https://www.youtube.com/watch?v=mMNIEOe4aUs&t=1s
