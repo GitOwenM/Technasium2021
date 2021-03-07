@@ -16,10 +16,10 @@
 - Planning
 
 ### De opdracht
-##### De opdrachtgever:
+##### **De opdrachtgever:**
 Richel Bilderbeek, richel@richelbilderbeek.nl.
 
-##### De opdracht zelf:
+##### **De opdracht zelf:**
 Richel doet zelf onderzoek naar vaccins, hierbij gebruikt hij 2 verschillende modellen. Deze modellen voorspellen de sterkte van verschillende peptidebindingen? in een cel bij verschillende haplotypes. Dit kan gebruikt worden om betere vaccins te maken. Het probleem dat hierbij komt kijken is dat deze 2 modellen soms compleet verschillende uitkomsten hebben. Het is aan ons om uit te zoeken waarom deze modellen verschillende uitkomsten geven. Hierbij hoort ook dat we moeten onderzoeken wat deze modellen precies proberen te voorspellen en wat alle termen betekenen.
 
 https://github.com/richelbilderbeek/ep_vs_mhcn 
