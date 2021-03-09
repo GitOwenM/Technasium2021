@@ -1,18 +1,19 @@
-Google Drive:
+Google Drive:\
 https://drive.google.com/drive/folders/1c4bBsIRNIOyva7WZmbAhaMpkHwuGwF0v?usp=sharing
 
 ### Title
-#### Subtitle\
 
-#### Table of contents\
-\
+#### Subtitle
+
+#### Table of contents
+
 Table of contents    2\
 Introduction    3\
 Hypothesis    4\
 Methods    5\
 Results    6\
 Conclusion    7\
-Discussion    8\
+Discussion    8
 
 
 #### Introduction
