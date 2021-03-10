@@ -22,8 +22,14 @@ Richel Bilderbeek, richel@richelbilderbeek.nl.
 **De opdracht zelf:**\
 Richel doet zelf onderzoek naar vaccins, hierbij gebruikt hij 2 verschillende modellen. Deze modellen voorspellen de sterkte van verschillende peptidebindingen? in een cel bij verschillende haplotypes. Dit kan gebruikt worden om betere vaccins te maken. Het probleem dat hierbij komt kijken is dat deze 2 modellen soms compleet verschillende uitkomsten hebben. Dit is in onderstaande afbeelding te zien, de uitkomsten van het ene model staan op de x-as, die van het andere model op de y-as. Het is aan ons om uit te zoeken waarom deze modellen verschillende uitkomsten geven. Hierbij hoort ook dat we moeten onderzoeken wat deze modellen precies proberen te voorspellen en wat alle termen betekenen.
 
+[RJCB: mooi! Een plaatje!]
+
 https://github.com/richelbilderbeek/ep_vs_mhcn 
 ![ep_vs_mhcn](https://user-images.githubusercontent.com/78077905/110243515-a0fe5380-7f52-11eb-97f6-8122c2c06443.png)
+
+[RCB: warm! Dit is echter niet het grote probleem.
+Het derde plaatje, echter, met een rode lijn met een negatieve
+richtingscoeffient toont deze wel]
 
 ### Deelopdrachten
 

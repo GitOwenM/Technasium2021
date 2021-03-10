@@ -8,6 +8,10 @@ Jasper: Code runnen en proberen te begrijpen\
 Owen: Verdieping in MHCnuggets\
 Hidde: Verdieping in Epitope Predictions
 
+[RJCB: leuk! Wat ik mis is: 'Snappen wat het probleem precies is'. Dit ligt
+het dichts bij Jasper. Code runnen is niet nodig, want je kunt ook met Excel
+met de rauwe data (.csv) werken]   
+
 ### Planning:
 | Week | Datum | Taak                                                                        | Opmerkingen |
 |------|-------|-----------------------------------------------------------------------------|-------------|
