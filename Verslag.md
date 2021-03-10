@@ -19,14 +19,13 @@ Discussion    8
 
 ## Introduction
 
-We have two different programs which predict how a person’s immune system responds to the proteins on the cell membrane. 
+We have two different programs which predict how well peptides bind to MHC complexes, if they bind better the immume system also works better. 
 
 [RJCB: good attempt! Better is more along the lines '[they predict] how well peptides bind to MHC complexes']
 
-This prediction can be used for the development of vaccines, 
-but [RJCB: I think the 'but' is funny, I suggest to replace it by a full stop instad :-)]
+This prediction can be used for the development of vaccines. [RJCB: I think the 'but' is funny, I suggest to replace it by a full stop instad :-)]
 
-two different programs (MHCnuggets and EpitopePredicions) give different results. In this paper we discuss why these programs output different results.
+The two different programs (MHCnuggets and EpitopePredicions) can give very different results. MHCnugets can predict a high value while EpitopePredictions predicts a low value in comparison. In this paper we discuss why these programs output different results.
 
 [RJCB: Again, nice try! Indeed, being able to tell why these programs give different results is nice. But this is not the problem (think a Celcius and Fahrenheit thermometer)]
 
