@@ -15,7 +15,7 @@ Richel doet zelf onderzoek naar vaccins, hierbij gebruikt hij 2 verschillende mo
 \
 ![image](https://user-images.githubusercontent.com/68740180/110619936-b8c71900-8198-11eb-8c05-a9c5c1809125.png)
 \
-Voor meer informatie: richelbilderbeek/ep_vs_mhcn: Compare the results of EpitopePrediction with those of MHCnuggets\
+Voor meer informatie: https://github.com/richelbilderbeek/ep_vs_mhcn\
 \
 [RJCB: mooi! Een plaatje!]\
 [RCB: warm! Dit is echter niet het grote probleem. Het derde plaatje, echter, met een rode lijn met een negatieve richtingscoeffient toont deze wel]
