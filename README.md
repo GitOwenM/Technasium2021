@@ -4,7 +4,7 @@
 https://drive.google.com/drive/folders/1c4bBsIRNIOyva7WZmbAhaMpkHwuGwF0v?usp=sharing
 
 ##### Individuele opdrachten:
-Jasper: Code runnen en proberen te begrijpen\
+Jasper: Verdiepen in de code van dit geval en proberen te runnen in R. Begrip krijgen van werking R.\
 Owen: Verdieping in MHCnuggets\
 Hidde: Verdieping in Epitope Predictions
 
