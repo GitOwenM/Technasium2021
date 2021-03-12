@@ -32,14 +32,14 @@ met de rauwe data (.csv) werken]
 | 07   | 03-3  | Planning verder invullen. Opstellen: Acquisitieverslag, Concrete taakverdeling |             |
 |      | 05-3  |  Verdelen individuele opdrachten
 |      |       | Opstellen: Team Ontwikkelplan [TOP], Persoonlijk Ontwikkelplan [POP]        |             |
-| 08   | 10-3  | ~~Presentatie voortgang voor klasgenoten~~. Werken aan onderzoek. Opstellen: Plan van Aanpak [PvA], Plan van Eisen [PvE] |             |
+| 08   | 10-3  | Werken aan onderzoek. Opstellen: Plan van Aanpak [PvA], Plan van Eisen [PvE]|             |
 |      | 12-3  | Werken aan onderzoek en inleveren PvA. Planning van school uitzoeken.       |             |
-| 09   | 17-3  | ~~Eventueel bezoek bedrijf~~. Werken aan individuele delen                  |             |
+| 09   | 17-3  | Werken aan individuele delen                                                |             |
 |      | 19-3  | Werken aan individuele delen                                                |             |
-| 10   | 24-3  | ~~Start Meesterproef~~. Werken aan individuele delen                        |             |
+| 10   | 24-3  | Werken aan individuele delen                                                |             |
 |      | 26-3  | Werken aan individuele delen                                                |             |
 | 11   | 31-3  | Werken aan individuele delen                                                |             |
-|      | 02-4  | Werken aan individuele delen                                                |             |
+|      | 02-4  | Werken aan individuele delen. Inleveren voortgangsverslag op Itslearning.   |             |
 | 12   | 07-4  | Werken aan individuele delen                                                |             |
 |      | 09-4  | Werken aan onderzoek                                                        |             |
 | 13   | 14-4  | Werken aan onderzoek                                                        |             |
@@ -47,20 +47,20 @@ met de rauwe data (.csv) werken]
 | 14   | 21-4  | Werken aan onderzoek                                                        |             |
 |      | 23-4  | Werken aan onderzoek                                                        |             |
 | 15   | 28-4  | Werken aan onderzoek                                                        |             |
-|      | 30-4  | Inleveren voortgangsverslag op Itslearning                                  |             |
+|      | 30-4  | Werken aan onderzoek                                                        |             |
 | 16   | 05-5  | Geen les                                                                    | Vakantie    |
 |      | 07-5  | Geen les                                                                    | Vakantie    |
-| 17   | 12-5  | Werken aan onderzoek                                                        |             |
+| 17   | 12-5  | Werken aan onderzoek. Voorlichting meesterproef                             |             |
 |      | 14-5  | Geen les                                                                    | Vrij        |
 | 18   | 19-5  | Werken aan onderzoek                                                        |             |
 |      | 21-5  | Werken aan onderzoek                                                        |             |
-| 19   | 26-5  | Werken aan onderzoek                                                        |             |
-|      | 28-5  | Opmaak verslag: markdown?                                                   |             | 
-| 20   | 02-6  | Opmaak verslag: markdown?                                                   |             |
-|      | 04-6  | Inleveren eindverslag voor feedback                                         |             |
-| 21   | 09-6  | Verbeteren eindverslag aan de hand van feedback                             |             |
-|      | 11-6  | Verbeteren eindverslag aan de hand van feedback                             |             |
-| 22   | 16-6  | Eindpresentaties Inleveren portfolio en eindverslag                         |             |
-|      | 18-6  | Eindpresentaties Inleveren portfolio en eindverslag                         |             |
-| 23   | 23-6  | Eindgesprekken                                                              |             |
+| 19   | 26-5  | Inleveren eindverslag voor feedback                                         |             |
+|      | 28-5  | Eindverslag verbeteren aan de hand van feedback                             |             | 
+| 20   | 02-6  | Eindverslag verbeteren aan de hand van feedback                             |             |
+|      | 04-6  | Inleveren eindverslag                                                       |             |
+| 21   | 09-6  | Presentaties                                                                |             |
+|      | 11-6  | Presentaties                                                                |             |
+| 22   | 16-6  | Portfolio inleveren. Eindgesprekken                                         |             |
+|      | 18-6  | Portfolio inleveren. Eindgesprekken                                         |             |
+| 23   | 23-6  |                                                                             |             |
 |      | 25-6  | Einde keuzeproject 2                                                        |             |
