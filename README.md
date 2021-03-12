@@ -62,5 +62,5 @@ met de rauwe data (.csv) werken]
 |      | 11-6  | Presentaties                                                                |             |
 | 22   | 16-6  | Portfolio inleveren. Eindgesprekken                                         |             |
 |      | 18-6  | Portfolio inleveren. Eindgesprekken                                         |             |
-| 23   | 23-6  |                                                                             |             |
+| 23   | 23-6  | Einde keuzeproject 2                                                        |             |
 |      | 25-6  | Einde keuzeproject 2                                                        |             |
