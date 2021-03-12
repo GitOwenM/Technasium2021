@@ -14,7 +14,7 @@ Voor meer informatie: https://github.com/richelbilderbeek/ep_vs_mhcn \
 [RCB: warm! Dit is echter niet het grote probleem. Het derde plaatje, echter, met een rode lijn met een negatieve richtingscoeffient toont deze wel]
 
 ### Onderzoeksvraag
-Hoe en waarom geven de 2 modellen Epitope Prediction en MHCNuggets bij dezelfde input een andere output en hoe is dit op te lossen?
+Hoe en waarom geven de 2 modellen Epitope Prediction en MHCNuggets bij dezelfde input een andere, en soms zelfs compleet de tegenovergestelde, output en hoe is dit op te lossen?
 
 ### Individuele delen
 Hidde: Verdiepen in de werking van Epitope Predictions.\
