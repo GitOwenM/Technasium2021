@@ -37,9 +37,9 @@ met de rauwe data (.csv) werken]
 | 09   | 17-3  | Werken aan individuele delen                                                |             |
 |      | 19-3  | Werken aan individuele delen                                                |             |
 | 10   | 24-3  | Werken aan individuele delen                                                |             |
-|      | 26-3  | Werken aan individuele delen                                                |             |
-| 11   | 31-3  | Werken aan individuele delen                                                |             |
-|      | 02-4  | Werken aan individuele delen. Inleveren voortgangsverslag op Itslearning.   |             |
+|      | 26-3  | Geen les                                                                    | Toetsweek   |
+| 11   | 31-3  | Geen les                                                                    | Toetsweek   |
+|      | 02-4  | Geen les. Inleveren voortgangsverslag op Itslearning.                       | Toetsweek   |
 | 12   | 07-4  | Werken aan individuele delen                                                |             |
 |      | 09-4  | Werken aan onderzoek                                                        |             |
 | 13   | 14-4  | Werken aan onderzoek                                                        |             |
