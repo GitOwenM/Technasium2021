@@ -26,8 +26,6 @@ Aantekeningen    15
 
 ## Introduction
 
-#### Other attempt:
-
 [RJCB: good stuff here!]
 
 We have two programs (MHCnuggets and Epitope Predictions) which both predict how likely a certain epitope is to be shown on the outside of the cell membrane with different haplotypes. This is important in the recognition of own body cells. If a cell presents an epitope, which is not recognised by the immune system, it will be killed [RJCB: reading it like that makes this appear a bad idea: why is this a good idea?]. This presentation of epitopes also plays a key role in vaccine development [RJCB: connect these two sectences, '... key role, because to be effective ...']. In order for a vaccine to be effective you want the epitopes to be presented as often as possible, so the immune system can quickly detect it and develop antibodies against the pathogen. However, these programs output some very [RJCB: remove 'very', use a quantification instead if there is one] different results and thus it is unknown if the given predictions are trustworthy or not [RJCB: no, both programs may even be right! Compare thermometers that show Celcius and Fahrenheit]. In this paper we discuss the differences between these programs, why they are caused, and how this affects the usefulness of the results. 
