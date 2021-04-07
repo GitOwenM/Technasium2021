@@ -41,26 +41,26 @@ met de rauwe data (.csv) werken]
 | 11   | 31-3  | Geen les                                                                    | Toetsweek   |
 |      | 02-4  | Geen les. Inleveren voortgangsverslag op Itslearning.                       | Toetsweek   |
 | 12   | 07-4  | Werken aan individuele delen                                                |             |
-|      | 09-4  | Werken aan onderzoek                                                        |             |
+|      | 08-4  | Presentaties aan klasgenoten                                                |             |
 | 13   | 14-4  | Werken aan onderzoek                                                        |             |
-|      | 16-4  | Werken aan onderzoek                                                        |             |
+|      | 15-4  | Werken aan onderzoek                                                        |             |
 | 14   | 21-4  | Werken aan onderzoek                                                        |             |
-|      | 23-4  | Werken aan onderzoek                                                        |             |
+|      | 22-4  | Werken aan onderzoek                                                        |             |
 | 15   | 28-4  | Werken aan onderzoek                                                        |             |
-|      | 30-4  | Werken aan onderzoek                                                        |             |
+|      | 29-4  | Werken aan onderzoek                                                        |             |
 | 16   | 05-5  | Geen les                                                                    | Vakantie    |
-|      | 07-5  | Geen les                                                                    | Vakantie    |
+|      | 06-5  | Geen les                                                                    | Vakantie    |
 | 17   | 12-5  | Werken aan onderzoek. Voorlichting meesterproef                             |             |
-|      | 14-5  | Geen les                                                                    | Vrij        |
-| 18   | 19-5  | Werken aan onderzoek                                                        |             |
-|      | 21-5  | Werken aan onderzoek                                                        |             |
-| 19   | 26-5  | Inleveren eindverslag voor feedback                                         |             |
-|      | 28-5  | Eindverslag verbeteren aan de hand van feedback                             |             | 
-| 20   | 02-6  | Eindverslag verbeteren aan de hand van feedback                             |             |
-|      | 04-6  | Inleveren eindverslag                                                       |             |
-| 21   | 09-6  | Presentaties                                                                |             |
-|      | 11-6  | Presentaties                                                                |             |
-| 22   | 16-6  | Portfolio inleveren. Eindgesprekken                                         |             |
-|      | 18-6  | Portfolio inleveren. Eindgesprekken                                         |             |
+|      | 13-5  | Geen les                                                                    | Vrij        |
+| 18   | 19-5  | Inleveren eindverslag voor feedback                                         |             |
+|      | 20-5  | Verbeteren Eindverslag aan de hand van feedback                             |             |
+| 19   | 26-5  | Verbeteren Eindverslag aan de hand van feedback                             |             |
+|      | 27-5  | Inleveren Eindverslag                                                       |             | 
+| 20   | 02-6  | Presentaties                                                                |             |
+|      | 03-6  | Presentaties                                                                |             |
+| 21   | 09-6  | Eindgesprekken + inleveren portfolio                                        |             |
+|      | 10-6  | Eindgesprekken + inleveren portfolio                                        |             |
+| 22   | 16-6  | Geen les                                                                    | Toetsweek   |
+|      | 17-6  | Geen les                                                                    | Toetsweek   |
 | 23   | 23-6  | Einde keuzeproject 2                                                        |             |
-|      | 25-6  | Einde keuzeproject 2                                                        |             |
+|      | 24-6  | Einde keuzeproject 2                                                        |             |
