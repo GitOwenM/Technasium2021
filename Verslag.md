@@ -32,21 +32,6 @@ Aantekeningen    15
 
 We have two programs (MHCnuggets and Epitope Predictions) which both predict how likely a certain epitope is to be shown on the outside of the cell membrane with different haplotypes. This is important in the recognition of own body cells. If a cell presents an epitope, which is not recognised by the immune system, it will be killed [RJCB: reading it like that makes this appear a bad idea: why is this a good idea?]. This presentation of epitopes also plays a key role in vaccine development [RJCB: connect these two sectences, '... key role, because to be effective ...']. In order for a vaccine to be effective you want the epitopes to be presented as often as possible, so the immune system can quickly detect it and develop antibodies against the pathogen. However, these programs output some very [RJCB: remove 'very', use a quantification instead if there is one] different results and thus it is unknown if the given predictions are trustworthy or not [RJCB: no, both programs may even be right! Compare thermometers that show Celcius and Fahrenheit]. In this paper we discuss the differences between these programs, why they are caused, and how this affects the usefulness of the results. 
 
-------------------------------------------------------------------------------------------------------------------------
-#### Previous attempt:
-
-[RJCB: delete previous attemps, as we use git]
-
-We have two different programs which predict how well peptides bind to MHC complexes, if they bind better the immume system also works better. 
-
-[RJCB: good attempt! Better is more along the lines '[they predict] how well peptides bind to MHC complexes']
-
-This prediction can be used for the development of vaccines. [RJCB: I think the 'but' is funny, I suggest to replace it by a full stop instad :-)]
-
-The two different programs (MHCnuggets and EpitopePredicions) can give very different results. MHCnugets can predict a high value while EpitopePredictions predicts a low value in comparison. In this paper we discuss why these programs output different results.
-
-[RJCB: Again, nice try! Indeed, being able to tell why these programs give different results is nice. But this is not the problem (think a Celcius and Fahrenheit thermometer)]
-
 ## Hypothesis
 We do not yet have a hypothesis as to why the programs give different results. We suspect it has something to do with the different methods both programs use, but we don’t know enough about this, because we have not figured out how both models work yet.
 
