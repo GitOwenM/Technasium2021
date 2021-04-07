@@ -18,7 +18,7 @@ Hoe en waarom geven de 2 modellen Epitope Prediction en MHCNuggets bij dezelfde 
 
 ### Individuele delen
 Hidde: Verdiepen in de werking van Epitope Predictions.\
-Jasper: Verdiepen in de code van dit geval en proberen te runnen in R. Begrip krijgen van werking R.\
+Jasper: Verdiepen in de code van dit geval en proberen te runnen in R. Begrip krijgen van werking R. Ook de biologische kant, hoe binden deze peptiden precies? Wat is de biologische betekenis van ic50? etc. \
 Owen: Verdiepen in de werking van MHCNuggets.
 
 ### Deelvragen
