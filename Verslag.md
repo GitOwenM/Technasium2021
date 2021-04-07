@@ -11,11 +11,18 @@ https://drive.google.com/drive/folders/1c4bBsIRNIOyva7WZmbAhaMpkHwuGwF0v?usp=sha
 
 Table of contents    2\
 Introduction    3\
-Hypothesis    4\
+Hypothesis    4\ 
 Methods    5\
-Results    6\
-Conclusion    7\
-Discussion    8
+Biology    6\
+Epitope Predictions    7\
+MHCnuggets    9\
+R-code    10\
+Results    11\
+Conclusion    12\
+Discussion    13\
+Definitions    14\
+Aantekeningen    15\
+
 
 ## Introduction
 #### Other attempt:
@@ -41,19 +48,26 @@ We do not yet have a hypothesis as to why the programs give different results. W
 ## Methods
 
 ## Epitope Predictions
-Epitope Prediction is one of the programs used for the prediction of IC50 it uses a stabilized matrix to calculate this value. A stabilized matrix is. (Hurwitz matrix?)
-It uses the sum of the hydrophobicity value, the physical property of a molecule that is seemingly repelled from a mass of water, of each of the amino acids to calculate how likely they are to appear on the cell membrane. The membrane of a cell is built up of 
+Epitope Prediction is one of the programs used for the prediction of an IC50-value. It uses a stabilized matrix to calculate this value. A stabilized matrix is (https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-6-132)
+It uses the sum of the hydrophobicity value, the physical property of a molecule that is seemingly repelled from a mass of water, of each of the amino acids to calculate how likely they are to appear on the cell membrane. The membrane of a cell is built up of phospholipids, which are built up of a hydrophobic tail and a hydrophilic head. See the image below.
 This method is faster than the method MHCnuggets uses (neurological network) but this increase in speed may also lead to less accurate results.
+![image](https://user-images.githubusercontent.com/68740180/113837634-5446ac00-978e-11eb-8dc0-3764e02adbed.png)
+
 
 Sources:
 hydrophobicity
 https://en.wikipedia.org/wiki/Hydrophobe
 
-Hurwitz matrix?
-https://en.wikipedia.org/wiki/Hurwitz_matrix
-
 Epitope Predictions
 https://github.com/jtextor/epitope-prediction
+
+Stabilized matrix
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-6-132
+
+Images:
+Cell membrane
+https://biologydictionary.net/cell-membrane/
+
 
 ## MHCnuggets
 
