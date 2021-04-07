@@ -4,7 +4,7 @@
 https://drive.google.com/drive/folders/1c4bBsIRNIOyva7WZmbAhaMpkHwuGwF0v?usp=sharing
 
 ##### Individuele opdrachten:
-Jasper: Verdiepen in de code van dit geval en proberen te runnen in R. Begrip krijgen van werking R.\
+Jasper: Verdiepen in de code van dit geval en proberen te runnen in R. Begrip krijgen van werking R. Ook de biologische kant, hoe binden deze peptiden precies? Wat is de biologische betekenis van ic50? etc.\
 Owen: Verdieping in MHCnuggets\
 Hidde: Verdieping in Epitope Predictions
 
