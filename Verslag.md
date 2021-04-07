@@ -11,7 +11,7 @@ https://drive.google.com/drive/folders/1c4bBsIRNIOyva7WZmbAhaMpkHwuGwF0v?usp=sha
 
 Table of contents    2\
 Introduction    3\
-Hypothesis    4\ 
+Hypothesis    4\
 Methods    5\
 Biology    6\
 Epitope Predictions    7\
@@ -21,7 +21,7 @@ Results    11\
 Conclusion    12\
 Discussion    13\
 Definitions    14\
-Aantekeningen    15\
+Aantekeningen    15
 
 
 ## Introduction
