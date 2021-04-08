@@ -79,9 +79,9 @@ as no experiments are done here]
 ## R-code
 
 [RJCB: Describe with the Methods are: what is done with EP and MHCnuggets.
-Introduce the tools in the introduction]
-The scripts that are used to generate the results can be found here. They roughly work as follows: the first script is used to generate random peptides (line 20 to 31) and after that the two programs MHCnuggets and EpitopePrediction are used to predict the ic50 values of the randomly generated peptides (line 33 to 41), these are stored in the file “ep_vs_mhcn.csv” (line 43).
-
+Introduce the tools in the introduction] \
+The scripts that are used to generate the results can be found here (https://github.com/richelbilderbeek/ep_vs_mhcn). They roughly work as follows: the first script (https://github.com/richelbilderbeek/ep_vs_mhcn/blob/master/create_dataset.R) is used to generate random peptides (line 20 to 31) and after that the two programs MHCnuggets and EpitopePrediction are used to predict the ic50 values of the randomly generated peptides (line 33 to 41), these are stored in the file “ep_vs_mhcn.csv” (line 43). \
+[JB: ik weet niet hoe je een hyperlink maakt, dus ik heb ze er eerst maar even zo in gezet]
 ## Results
 
 We do not have any results yet.
