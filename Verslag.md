@@ -51,8 +51,7 @@ The membrane of a human cell is built up of phospholipids, which consist of a hy
 This method is faster than the method MHCnuggets uses (neurological network) but this increase in speed may also lead to less accurate results.
 
 ![image](https://user-images.githubusercontent.com/68740180/113837634-5446ac00-978e-11eb-8dc0-3764e02adbed.png)
-![unnamed](https://user-images.githubusercontent.com/78077905/113990874-3478bc00-9852-11eb-805b-00fe982c154d.png)
-
+![Screenshot_20210408_100850](https://user-images.githubusercontent.com/78077905/113991133-74d83a00-9852-11eb-9d7f-b1acc78b8478.png)
 
 [RJCB: Sources == awesome! Move these to to the references however. I 
 have written down the first one]
