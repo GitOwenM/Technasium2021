@@ -39,19 +39,23 @@ We do not yet have a hypothesis as to why the programs give different results. W
 
 ## Biology
 The HLA (human leukocyte antigen) system is a part of the immune system that determines whether a cell in the body is invasive, like a bacteria, and should thus be killed, or a body’s own cell, like a blood cell or a liver cell. 
-This is usually determined by checking whether the antigen that is presented on a MHC-I or MHC-II (Major Histocompatibility Complex) molecule. These two molecules have nearly the same name, but differ largely. MHC-I molecules are 
-For viruses this can be determined when a certain cell is infected and is presenting a foreign antigen on one of it’s MHC-I proteins. This can be the cell’s one or, when the cell is infected by a virus, the virus’ antigen. If a cell is presenting an antigen a Tc cell will determine whether the antigen is foreign or not, if this is the case the Tc cell will kill the cell by disintegrating it’s membrane with proteins. It will also start cloning itself rapidly to be able to more quickly notify other cells necessary in the defense against the virus.
+This is usually determined by checking whether the antigen that is presented on a MHC-I (Major Histocompatibility Complex) or a MHC-II molecule. These two molecules have nearly the same name, but differ a fair amount. MHC-I molecules are found on all nucleated cells, cells with a nucleus. However MHC-II molecules are only found on the surfaces of antigen presenting cells (APCs) like macrophages or phagocytes. Thus MHC-I is used for the detection of infected cells by, for example viruses or the detection of bacteria and MHC-II is used for presenting the antigens of a virus or bacteria to other cells in the immune system, for example, T helper cells or B cells.[4]
+For viruses this can be determined when a certain cell is infected and is showing a foreign antigen on one of it’s MHC-I proteins. This can be the cell’s one or, when the cell is infected by a virus, the virus’ antigen. If a cell is presenting an antigen a Tc cell will determine whether the antigen is foreign or not, if this is the case the Tc cell will kill the cell by disintegrating it’s membrane with proteins. It will also start cloning itself rapidly to be able to more quickly notify other cells necessary in the defense against the virus. \
+![image](https://user-images.githubusercontent.com/78077905/114673622-ab0c3280-9d06-11eb-8a93-ac46da8db00e.png)
+
 
 ## Epitope Predictions
 
-Epitope Prediction is one of the programs used for the prediction of an IC50-value. It was developed by Johannes Textor, a researcher at the Radboud University. Epitope Predictions uses a stabilized matrix [1] to calculate this value. A stabilized matrix is (info)
-It uses the sum of the hydrophobicity value [2], the physical property of a molecule that is seemingly repelled from a mass of water, of each of the amino acids to calculate how likely they are to appear on the cell membrane. This is where MHC class I is important. The MHC I molecule is built up of α- and β-chains [], which differ between haplotypes. These chains form a groove, in which a peptide can bind. The MHC I groove is closed and because of this only short epitopes can properly bind to it. These epitopes are mostly between 9 and 11 amino acids long. However, epitopes with different lengths often use alternative binding grooves, which complicates predictions []. Because of this Epitope Predictions uses epitopes that are 9 amino acids long, because they are most common [3], and to simplify predictions.
+Epitope Prediction is one of the programs used for the prediction of an IC50-value. It was developed by Johannes Textor, a researcher at the Radboud University in Nijmegen. Epitope Predictions uses a stabilized matrix [1] to calculate this IC-50 value. A stabilized matrix is (info)
+It uses the sum of the hydrophobicity value [2], the physical property of a molecule that is seemingly repelled from a mass of water, of each of the amino acids to calculate how likely they are to appear on the cell membrane. This is where MHC class I is important. The MHC I molecule is built up of α- and β-chains [], which differ between haplotypes. These chains form a groove, in which a peptide can bind. The MHC I groove is closed and because of this mostly short epitopes can properly bind to it, though research has shown longer epitopes do sometimes bind to MHC I []. These epitopes are mostly between 9 and 11 amino acids long. However, epitopes with different lengths often use alternative binding grooves, which complicates predictions []. Because of this Epitope Predictions uses epitopes that are 9 amino acids long, because they are most common [3], and to simplify predictions.
+
+![Screenshot_20210408_100850](https://user-images.githubusercontent.com/78077905/113991133-74d83a00-9852-11eb-9d7f-b1acc78b8478.png)
 
 The membrane of a human cell is built up of phospholipids, which consist of a hydrophobic tail and a hydrophilic head. This means that a hydrophobic amino acid is less likely to appear on the outside of a cell membrane. See the image below.
-This method is faster than the method MHCnuggets uses (neurological network) but this increase in speed may also lead to less accurate results.
 
 ![image](https://user-images.githubusercontent.com/68740180/113837634-5446ac00-978e-11eb-8dc0-3764e02adbed.png)
-![Screenshot_20210408_100850](https://user-images.githubusercontent.com/78077905/113991133-74d83a00-9852-11eb-9d7f-b1acc78b8478.png)
+
+This method is faster than the method MHCnuggets uses (neurological network) but this increase in speed may also lead to less accurate results (needs testing).
 
 [RJCB: Sources == awesome! Move these to to the references however. I 
 have written down the first one]
@@ -112,6 +116,12 @@ IC50: a quantitative measure that indicates how much of a particular inhibitory 
 Haplotype: a group of genes within an organism that was inherited together from a single parent. A different haplotype can correspond to a different MHC I-complex, which in itself means that different epitopes are more or less likely to be presented to the immune system [RJCB: Describe how 'different epitopes are more or less likely to be presented to the immune system'. It feels like a shortcut here :-) ].
 
 ## References
+[1] Peters, Bjoern, and Alessandro Sette. "Generating quantitative models describing the sequence specificity of biological processes with the stabilized matrix method." BMC bioinformatics 6.1 (2005): 1-9.
 
- * [1] Bianchi, Frans, Johannes Textor, and Geert van den Bogaart. "Transmembrane Helices are an overlooked source of Major Histocompatibility Complex Class I epitopes." Frontiers in immunology 8 (2017): 1118.
+[2] Sanchez-Trincado, Jose L., Marta Gomez-Perosanz, and Pedro A. Reche. "Fundamentals and methods for T-and B-cell epitope prediction." Journal of immunology research 2017 (2017).
+
+[3] Trolle, Thomas, et al. "The length distribution of class I–restricted T cell epitopes is determined by both peptide supply and MHC allele–specific binding preference." The Journal of Immunology 196.4 (2016): 1480-1487.
+
+[4] Janeway, Charles A, and Jr. “The major histocompatibility complex and its functions.” Immunobiology: The Immune System in Health and Disease. 5th edition., U.S. National Library of Medicine (1970).
+
 
