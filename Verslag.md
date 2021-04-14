@@ -114,6 +114,14 @@ IC50: a quantitative measure that indicates how much of a particular inhibitory 
 Haplotype: a group of genes within an organism that was inherited together from a single parent. A different haplotype can correspond to a different MHC I-complex, which in itself means that different epitopes are more or less likely to be presented to the immune system [RJCB: Describe how 'different epitopes are more or less likely to be presented to the immune system'. It feels like a shortcut here :-) ].
 
 ## References
+[1] Peters, Bjoern, and Alessandro Sette. "Generating quantitative models describing the sequence specificity of biological processes with the stabilized matrix method." BMC bioinformatics 6.1 (2005): 1-9.
 
- * [1] Bianchi, Frans, Johannes Textor, and Geert van den Bogaart. "Transmembrane Helices are an overlooked source of Major Histocompatibility Complex Class I epitopes." Frontiers in immunology 8 (2017): 1118.
+[2] Sanchez-Trincado, Jose L., Marta Gomez-Perosanz, and Pedro A. Reche. "Fundamentals and methods for T-and B-cell epitope prediction." Journal of immunology research 2017 (2017).
+
+[3] Trolle, Thomas, et al. "The length distribution of class I–restricted T cell epitopes is determined by both peptide supply and MHC allele–specific binding preference." The Journal of Immunology 196.4 (2016): 1480-1487.
+
+[4] Janeway, Charles A, and Jr. “The major histocompatibility complex and its functions.” Immunobiology: The Immune System in Health and Disease. 5th edition., U.S. National Library of Medicine (1970).
+
+
+ * [?] Bianchi, Frans, Johannes Textor, and Geert van den Bogaart. "Transmembrane Helices are an overlooked source of Major Histocompatibility Complex Class I epitopes." Frontiers in immunology 8 (2017): 1118.
 
