@@ -46,14 +46,16 @@ For viruses this can be determined when a certain cell is infected and is showin
 
 ## Epitope Predictions
 
-Epitope Prediction is one of the programs used for the prediction of an IC50-value. It was developed by Johannes Textor, a researcher at the Radboud University. Epitope Predictions uses a stabilized matrix [1] to calculate this value. A stabilized matrix is (info)
-It uses the sum of the hydrophobicity value [2], the physical property of a molecule that is seemingly repelled from a mass of water, of each of the amino acids to calculate how likely they are to appear on the cell membrane. This is where MHC class I is important. The MHC I molecule is built up of α- and β-chains [], which differ between haplotypes. These chains form a groove, in which a peptide can bind. The MHC I groove is closed and because of this only short epitopes can properly bind to it. These epitopes are mostly between 9 and 11 amino acids long. However, epitopes with different lengths often use alternative binding grooves, which complicates predictions []. Because of this Epitope Predictions uses epitopes that are 9 amino acids long, because they are most common [3], and to simplify predictions.
+Epitope Prediction is one of the programs used for the prediction of an IC50-value. It was developed by Johannes Textor, a researcher at the Radboud University in Nijmegen. Epitope Predictions uses a stabilized matrix [1] to calculate this IC-50 value. A stabilized matrix is (info)
+It uses the sum of the hydrophobicity value [2], the physical property of a molecule that is seemingly repelled from a mass of water, of each of the amino acids to calculate how likely they are to appear on the cell membrane. This is where MHC class I is important. The MHC I molecule is built up of α- and β-chains [], which differ between haplotypes. These chains form a groove, in which a peptide can bind. The MHC I groove is closed and because of this mostly short epitopes can properly bind to it, though research has shown longer epitopes do sometimes bind to MHC I []. These epitopes are mostly between 9 and 11 amino acids long. However, epitopes with different lengths often use alternative binding grooves, which complicates predictions []. Because of this Epitope Predictions uses epitopes that are 9 amino acids long, because they are most common [3], and to simplify predictions.
+
+![Screenshot_20210408_100850](https://user-images.githubusercontent.com/78077905/113991133-74d83a00-9852-11eb-9d7f-b1acc78b8478.png)
 
 The membrane of a human cell is built up of phospholipids, which consist of a hydrophobic tail and a hydrophilic head. This means that a hydrophobic amino acid is less likely to appear on the outside of a cell membrane. See the image below.
-This method is faster than the method MHCnuggets uses (neurological network) but this increase in speed may also lead to less accurate results.
 
 ![image](https://user-images.githubusercontent.com/68740180/113837634-5446ac00-978e-11eb-8dc0-3764e02adbed.png)
-![Screenshot_20210408_100850](https://user-images.githubusercontent.com/78077905/113991133-74d83a00-9852-11eb-9d7f-b1acc78b8478.png)
+
+This method is faster than the method MHCnuggets uses (neurological network) but this increase in speed may also lead to less accurate results (needs testing).
 
 [RJCB: Sources == awesome! Move these to to the references however. I 
 have written down the first one]
@@ -122,6 +124,4 @@ Haplotype: a group of genes within an organism that was inherited together from 
 
 [4] Janeway, Charles A, and Jr. “The major histocompatibility complex and its functions.” Immunobiology: The Immune System in Health and Disease. 5th edition., U.S. National Library of Medicine (1970).
 
-
- * [?] Bianchi, Frans, Johannes Textor, and Geert van den Bogaart. "Transmembrane Helices are an overlooked source of Major Histocompatibility Complex Class I epitopes." Frontiers in immunology 8 (2017): 1118.
 
