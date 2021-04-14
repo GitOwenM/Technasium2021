@@ -36,12 +36,12 @@ Hidde: Verdieping in Epitope Predictions
 |      | 02-4  | Geen les. Inleveren voortgangsverslag op Itslearning.                       | Toetsweek   |
 | 12   | 07-4  | Werken aan individuele delen                                                |             |
 |      | 08-4  | Presentaties aan klasgenoten                                                |             |
-| 13   | 14-4  | Werken aan onderzoek                                                        |             |
-|      | 15-4  | Werken aan onderzoek                                                        |             |
+| 13   | 14-4  | Werken aan individuele delen                                                |             |
+|      | 15-4  | Werken aan individuele delen                                                |             |
 | 14   | 21-4  | Werken aan onderzoek                                                        |             |
 |      | 22-4  | Werken aan onderzoek                                                        |             |
-| 15   | 28-4  | Werken aan onderzoek                                                        |             |
-|      | 29-4  | Werken aan onderzoek                                                        |             |
+| 15   | 28-4  | Geen les                                                                    | Vakantie    |
+|      | 29-4  | Geen les                                                                    | Vakantie    |
 | 16   | 05-5  | Geen les                                                                    | Vakantie    |
 |      | 06-5  | Geen les                                                                    | Vakantie    |
 | 17   | 12-5  | Werken aan onderzoek. Voorlichting meesterproef                             |             |
