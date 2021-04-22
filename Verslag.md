@@ -52,8 +52,8 @@ For our last example we have a graph with random data. Here we see there is no c
 We also have a way to quantify this correlation, using the Pearson Correlation Coefficient. 
 
 ### Pearson Correlation
-Using the Pearson Correlation Coefficient we were able to find a correlation between the results of MHCnuggets and EpitopePredictions for each different haplotype. See the formula down below. 
-r = Σ(X<sub>i</sub>-x̄)(Y<sub>i</sub>-ȳ) / √(Σ(X<sub>i</sub>-x̄)<sup>2</sup> Σ(Y<sub>i</sub>-ȳ)<sup>2</sup>)
+Using the Pearson Correlation Coefficient we were able to find a correlation between the results of MHCnuggets and EpitopePredictions for each different haplotype. See the formula down below. \
+#### r = Σ(X<sub>i</sub>-x̄)(Y<sub>i</sub>-ȳ) / √(Σ(X<sub>i</sub>-x̄)<sup>2</sup> Σ(Y<sub>i</sub>-ȳ)<sup>2</sup>)
 > [JB:I do not know how to edit formulas in markdown]
 
 r = correlation coefficient \
