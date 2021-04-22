@@ -36,20 +36,39 @@ We do not yet have a hypothesis as to why the programs give different results. W
 [RJCB: I enjoy the honesty here! Please keep preferring to do so over bluffing :-)]
 
 ## Methods
+### How does it work?
+In this table we have the temperature in two different units: Celsius and Fahrenheit. If we were to plot this table, we would get the following graph (image x). The x-axis shows the temperature in Celsius and the y-axis shows the temperature in Fahrenheit. In this example it is easy to see the correlation: as we increase the value of the x-axis, the y-axis follows. Such a correlation is not always easy to spot. 
+
+![image](https://user-images.githubusercontent.com/78077905/115678460-ce139380-a351-11eb-9464-ddcd8711bcc3.png)
+
+This example is exactly the same as the previous example, but we added some noise to the measurements. Though, at first glance, it might not seem like there is a clear correlation between the two, a trendline shows that this assumption is false. We still have the same correlation between the temperature in Celsius and the temperature in Fahrenheit. 
+
+![image](https://user-images.githubusercontent.com/78077905/115678566-f00d1600-a351-11eb-9ffc-de2db6c371d9.png)
+
+For our last example we have a graph with random data. Here we see there is no correlation: as we increase the value on the x-axis, the y-axis stays the same, this can be seen using the trendline. 
+
+![image](https://user-images.githubusercontent.com/78077905/115678634-02874f80-a352-11eb-8ef8-a83e2bc23090.png)
+
+We also have a way to quantify this correlation, using the Pearson Correlation Coefficient. 
+
+### Pearson Correlation
+Using the Pearson Correlation Coefficient we were able to find a correlation between the results of MHCnuggets and EpitopePredictions for each different haplotype. See the formula down below. 
+r = Σ(X<sub>i</sub>-x̄)(Y<sub>i</sub>-ȳ) / √(Σ(X<sub>i</sub>-x̄)<sup>2</sup> Σ(Y<sub>i</sub>-ȳ)<sup>2</sup>)
+> [JB:I do not know how to edit formulas in markdown]
+
+r = correlation coefficient \
+x<sub>i</sub> = values of the x-variable in a sample \
+x = mean of the values of the x-variable \
+y<sub>i</sub> = values of the y-variable in a sample \
+y = mean of the values of the y-variable \
 
 ## Biology
-The HLA (human leukocyte antigen) system is a part of the immune system that determines whether a cell in the body is invasive, like a bacteria, and should thus be killed, or a body’s own cell, like a blood cell or a liver cell. 
-This is usually determined by checking whether the antigen that is presented on a MHC-I (Major Histocompatibility Complex) or a MHC-II molecule. These two molecules have nearly the same name, but differ a fair amount. MHC-I molecules are found on all nucleated cells, cells with a nucleus. However MHC-II molecules are only found on the surfaces of antigen presenting cells (APCs) like macrophages or phagocytes. Thus MHC-I is used for the detection of infected cells by, for example viruses or the detection of bacteria and MHC-II is used for presenting the antigens of a virus or bacteria to other cells in the immune system, for example, T helper cells or B cells.[4]
-For viruses this can be determined when a certain cell is infected and is showing a foreign antigen on one of it’s MHC-I proteins. This can be the cell’s one or, when the cell is infected by a virus, the virus’ antigen. If a cell is presenting an antigen a Tc cell will determine whether the antigen is foreign or not, if this is the case the Tc cell will kill the cell by disintegrating it’s membrane with proteins. It will also start cloning itself rapidly to be able to more quickly notify other cells necessary in the defense against the virus. \
-
-![image](https://user-images.githubusercontent.com/78077905/114673622-ab0c3280-9d06-11eb-8a93-ac46da8db00e.png)
-
-[RJCB: replace this table by a text, as it does not scale with the text]
-
-What                   |MHC-I              |MHC-II
------------------------|-------------------|------------------------
-Present in which cells?|All nucleated cells|Antigen presenting cells
-
+### How are antigens presented to the immune system?
+  The HLA (human leukocyte antigen) system is a part of the immune system that determines whether a cell in the body is invasive, like a bacteria, and should thus be killed, or a body’s own cell, like a blood cell or a liver cell. 
+  This is usually determined by checking whether the antigen that is presented on a MHC-I (Major Histocompatibility Complex) or a MHC-II molecule. These two molecules have nearly the same name, but differ a fair amount. MHC-I molecules are found on all nucleated cells, cells with a nucleus. However MHC-II molecules are only found on the surfaces of antigen presenting cells (APCs) like macrophages or phagocytes. Thus MHC-I is used for the detection of infected cells by, for example viruses or the detection of bacteria and MHC-II is used for presenting the antigens of a virus or bacteria to other cells in the immune system, for example, T helper cells or B cells.[4]
+  For viruses this can be determined when a certain cell is infected and is showing a foreign antigen on one of it’s MHC-I proteins. This antigen can be one of the body’s  known antigens or, when the cell is infected by a virus, the virus’ foreign antigen. If a cell is presenting an antigen a Tc cell will determine whether the antigen is foreign or not, if this is the case the Tc cell will kill the cell by disintegrating it’s membrane with proteins. It will also start cloning itself rapidly to be able to more quickly notify other cells necessary in the defense against the virus.
+  For bacteria this process is nearly the same, the only difference is that a bacterium is a cell in itself, a virus is not. Thus a bacterium is able to present an antigen itself in contrast to an infected cell presenting the antigen “for” the virus. Because the virus is unable to present the antigen as it is not a cell.
+### How does this relate to ic<sub>50</sub>?
 ## Epitope Predictions
 
 Epitope Prediction is one of the programs used for the prediction of an IC50-value. It was developed by Johannes Textor, a researcher at the Radboud University in Nijmegen. Epitope Predictions uses a stabilized matrix [1] to calculate this IC-50 value. A stabilized matrix is (info)
