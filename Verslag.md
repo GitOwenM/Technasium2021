@@ -31,17 +31,25 @@ Aantekeningen    15
 We have two programs (MHCnuggets and Epitope Predictions) which both predict how likely a certain epitope is to be shown on the outside of the cell membrane with different haplotypes. This is important in the recognition of own body cells. If a cell presents an epitope, which is not recognised by the immune system, it will be killed [RJCB: reading it like that makes this appear a bad idea: why is this a good idea?]. This presentation of epitopes also plays a key role in vaccine development [RJCB: connect these two sectences, '... key role, because to be effective ...']. In order for a vaccine to be effective you want the epitopes to be presented as often as possible, so the immune system can quickly detect it and develop antibodies against the pathogen. However, these programs output some very [RJCB: remove 'very', use a quantification instead if there is one] different results and thus it is unknown if the given predictions are trustworthy or not [RJCB: no, both programs may even be right! Compare thermometers that show Celcius and Fahrenheit]. In this paper we discuss the differences between these programs, why they are caused, and how this affects the usefulness of the results. 
 
 ## Hypothesis
+
 We do not yet have a hypothesis as to why the programs give different results. We suspect it has something to do with the different methods both programs use, but we don’t know enough about this, because we have not figured out how both models work yet.
 
-[RJCB: I enjoy the honesty here! Please keep preferring to do so over bluffing :-)]
+[RJCB: put something useful here, write what it is that you test and what you expect,
+e.g. 'We expect that both tools agree on which epitopes have a higher or lower IC50]
 
 ## Methods
 ### How does it work?
-In this table we have the temperature in two different units: Celsius and Fahrenheit. If we were to plot this table, we would get the following graph (image x). The x-axis shows the temperature in Celsius and the y-axis shows the temperature in Fahrenheit. In this example it is easy to see the correlation: as we increase the value of the x-axis, the y-axis follows. Such a correlation is not always easy to spot. 
+In this table we have the temperature in two different units: Celsius and Fahrenheit. If we were to plot this table, we would get the following graph (image x). The x-axis shows the temperature in Celsius and the y-axis shows the temperature in Fahrenheit. In this example it is easy to see the correlation: as we increase the value of the x-axis, the y-axis follows. Such a correlation is not always easy to spot.
+[RJCB: No, in this case, such a correlation is very easy to spot :-)
+I suggest to add a Celsius-to-Fahrenheit plot as you do below, to see
+how an excellent correlation looks like] 
 
 ![image](https://user-images.githubusercontent.com/78077905/115678460-ce139380-a351-11eb-9464-ddcd8711bcc3.png)
+[RJCB: The axes have weird labels, especially 'Celsius' on the x axis,
+and 'Temperature' on the y axis. What about using 'Temperature (Kelvin)'
+on the Y axis, then using 'Temperature' in Celsius and Fahrenheit on the y axis. ]
 
-This example is exactly the same as the previous example, but we added some noise to the measurements. Though, at first glance, it might not seem like there is a clear correlation between the two, a trendline shows that this assumption is false. We still have the same correlation between the temperature in Celsius and the temperature in Fahrenheit. 
+This example is exactly the same as the previous example, but we added some noise to the measurements [RJCB: I enjoy this build up! Show the ]. Though, at first glance, it might not seem like there is a clear correlation between the two, a trendline shows that this assumption is false. We still have the same correlation between the temperature in Celsius and the temperature in Fahrenheit. 
 
 ![image](https://user-images.githubusercontent.com/78077905/115678566-f00d1600-a351-11eb-9ffc-de2db6c371d9.png)
 
@@ -52,9 +60,11 @@ For our last example we have a graph with random data. Here we see there is no c
 We also have a way to quantify this correlation, using the Pearson Correlation Coefficient. 
 
 ### Pearson Correlation
+
 Using the Pearson Correlation Coefficient we were able to find a correlation between the results of MHCnuggets and EpitopePredictions for each different haplotype. See the formula down below. \
 #### r = Σ(X<sub>i</sub>-x̄)(Y<sub>i</sub>-ȳ) / √(Σ(X<sub>i</sub>-x̄)<sup>2</sup> Σ(Y<sub>i</sub>-ȳ)<sup>2</sup>)
-> [JB:I do not know how to edit formulas in markdown]
+> [JB:I do not know how to edit formulas in markdown][RJCB: this is fine, 
+also the Wikipedia picture of the formula would work]
 
 r = correlation coefficient \
 x<sub>i</sub> = values of the x-variable in a sample \
@@ -62,8 +72,13 @@ x = mean of the values of the x-variable \
 y<sub>i</sub> = values of the y-variable in a sample \
 y = mean of the values of the y-variable \
 
+[RJCB: I really wonder how the PCC will be used. Could you explain with some
+example data, such as temperature?]
+
 ## Biology
+
 ### How are antigens presented to the immune system?
+
   The HLA (human leukocyte antigen) system is a part of the immune system that determines whether a cell in the body is invasive, like a bacteria, and should thus be killed, or a body’s own cell, like a blood cell or a liver cell. 
   This is usually determined by checking whether the antigen that is presented on a MHC-I (Major Histocompatibility Complex) or a MHC-II molecule. These two molecules have nearly the same name, but differ a fair amount. MHC-I molecules are found on all nucleated cells, cells with a nucleus. However MHC-II molecules are only found on the surfaces of antigen presenting cells (APCs) like macrophages or phagocytes. Thus MHC-I is used for the detection of infected cells by, for example viruses or the detection of bacteria and MHC-II is used for presenting the antigens of a virus or bacteria to other cells in the immune system, for example, T helper cells or B cells.[4]
   For viruses this can be determined when a certain cell is infected and is showing a foreign antigen on one of it’s MHC-I proteins. This antigen can be one of the body’s  known antigens or, when the cell is infected by a virus, the virus’ foreign antigen. If a cell is presenting an antigen a Tc cell will determine whether the antigen is foreign or not, if this is the case the Tc cell will kill the cell by disintegrating it’s membrane with proteins. It will also start cloning itself rapidly to be able to more quickly notify other cells necessary in the defense against the virus.
@@ -107,10 +122,13 @@ as no experiments are done here]
 
 ## R-code
 
-[RJCB: Describe with the Methods are: what is done with EP and MHCnuggets.
-Introduce the tools in the introduction] \
-The scripts that are used to generate the results can be found here (https://github.com/richelbilderbeek/ep_vs_mhcn). They roughly work as follows: the first script (https://github.com/richelbilderbeek/ep_vs_mhcn/blob/master/create_dataset.R) is used to generate random peptides (line 20 to 31) and after that the two programs MHCnuggets and EpitopePrediction are used to predict the ic50 values of the randomly generated peptides (line 33 to 41), these are stored in the file “ep_vs_mhcn.csv” (line 43). \
-[JB: ik weet niet hoe je een hyperlink maakt, dus ik heb ze er eerst maar even zo in gezet]
+The scripts that are used to generate the results can be found here (https://github.com/richelbilderbeek/ep_vs_mhcn). They roughly work as follows: the first script (https://github.com/richelbilderbeek/ep_vs_mhcn/blob/master/create_dataset.R) is used to generate random peptides (line 20 to 31) [RJCB: no need to mention the line
+of code, but keep it in until the last version if you do enjoy to use it as a note] and after that the two programs MHCnuggets and EpitopePrediction are used to predict the ic50 values of the randomly generated peptides (line 33 to 41), these are stored in the file “ep_vs_mhcn.csv” (line 43) [RJCB: no scientist will care if about the filename
+and if it is stored :-)]. \
+
+[JB: ik weet niet hoe je een hyperlink maakt, dus ik heb ze er eerst maar even zo in gezet][RJCB: geen probleem, mij maakt het niet uit. Het antwoord is simpel te 
+Googlen: https://lmddgtfy.net/?q=how%20to%20make%20a%20link%20in%20markdown ]
+
 ## Results
 
 We do not have any results yet.
