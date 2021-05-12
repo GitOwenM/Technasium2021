@@ -6,5 +6,5 @@ Epitope-Prediction: https://github.com/jtextor/epitope-prediction \
 Meesterproef Joshua: https://github.com/richelbilderbeek/meesterproef_joshua/blob/master/report.md \
 Informatie EP vs MHCN: https://github.com/richelbilderbeek/ep_vs_mhcn 
 
-Filmpje info haplotypes etc.: https://youtu.be/sgTnlLdlI7U
+Filmpje info haplotypes etc.: https://youtu.be/sgTnlLdlI7U \
 Correlatietests: https://www.socscistatistics.com/tests/
