@@ -49,12 +49,12 @@ Hidde: Verdieping in Epitope Predictions
 | 18   | 19-5  | Inleveren eindverslag voor feedback                                         |             |
 |      | 20-5  | Verbeteren Eindverslag aan de hand van feedback                             |             |
 | 19   | 26-5  | Verbeteren Eindverslag aan de hand van feedback                             |             |
-|      | 27-5  | Inleveren Eindverslag                                                       |             | 
-| 20   | 02-6  | Presentaties                                                                |             |
-|      | 03-6  | Presentaties                                                                |             |
-| 21   | 09-6  | Eindgesprekken + inleveren portfolio                                        |             |
-|      | 10-6  | Eindgesprekken + inleveren portfolio                                        |             |
-| 22   | 16-6  | Geen les                                                                    | Toetsweek   |
-|      | 17-6  | Geen les                                                                    | Toetsweek   |
+|      | 27-5  | Werken aan onderzoek                                                        |             | 
+| 20   | 02-6  | Werken aan onderzoek                                                        |             |
+|      | 03-6  | Werken aan onderzoek                                                        |             |
+| 21   | 09-6  | Inleveren Eindverslag                                                       |             |
+|      | 10-6  | Presentaties                                                                |             |
+| 22   | 16-6  | Presentaties                                                                | Toetsweek   |
+|      | 17-6  | Eindgesprekken                                                              | Toetsweek   |
 | 23   | 23-6  | Einde keuzeproject 2                                                        |             |
 |      | 24-6  | Einde keuzeproject 2                                                        |             |
