@@ -7,3 +7,4 @@ Meesterproef Joshua: https://github.com/richelbilderbeek/meesterproef_joshua/blo
 Informatie EP vs MHCN: https://github.com/richelbilderbeek/ep_vs_mhcn 
 
 Filmpje info haplotypes etc.: https://youtu.be/sgTnlLdlI7U
+Correlatietests: https://www.socscistatistics.com/tests/
