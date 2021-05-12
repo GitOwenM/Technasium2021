@@ -5,25 +5,6 @@ https://drive.google.com/drive/folders/1c4bBsIRNIOyva7WZmbAhaMpkHwuGwF0v?usp=sha
 
 ## Subtitle
 
-## Table of contents
-
-[RJCB: Niet nodig wat mij betreft]
-
-Table of contents    2\
-Introduction    3\
-Hypothesis    4\
-Methods    5\
-Biology    6\
-Epitope Predictions    7\
-MHCnuggets    9\
-R-code    10\
-Results    11\
-Conclusion    12\
-Discussion    13\
-Definitions    14\
-Aantekeningen    15
-
-
 ## Introduction
 
 [RJCB: good stuff here!]
