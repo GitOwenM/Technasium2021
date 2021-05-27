@@ -50,11 +50,11 @@ Hidde: Verdieping in Epitope Predictions
 |      | 20-5  | Verbeteren Eindverslag aan de hand van feedback                             |             |
 | 19   | 26-5  | Verbeteren Eindverslag aan de hand van feedback                             |             |
 |      | 27-5  | Werken aan onderzoek                                                        |             | 
-| 20   | 02-6  | Werken aan onderzoek                                                        |             |
-|      | 03-6  | Werken aan onderzoek                                                        |             |
-| 21   | 09-6  | Inleveren Eindverslag                                                       |             |
-|      | 10-6  | Presentaties                                                                |             |
-| 22   | 16-6  | Presentaties                                                                | Toetsweek   |
-|      | 17-6  | Eindgesprekken                                                              | Toetsweek   |
-| 23   | 23-6  | Einde keuzeproject 2                                                        |             |
+| 20   | 31-5  | Werken aan onderzoek                                                        |             |
+|      | 03-6  | Presentaties                                                                |             |
+| 21   | 07-6  | Inleveren Eindverslag                                                       |             |
+|      | 10-6  | Eindgesprekken?                                                             |             |
+| 22   | 14-6  | Eindgesprekken?                                                             | Toetsweek   |
+|      | 17-6  | Eindgesprekken?                                                             | Toetsweek   |
+| 23   | 21-6  | Einde keuzeproject 2                                                        |             |
 |      | 24-6  | Einde keuzeproject 2                                                        |             |
