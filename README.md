@@ -51,6 +51,7 @@ Hidde: Verdieping in Epitope Predictions
 | 19   | 26-5  | Verbeteren Eindverslag aan de hand van feedback                             |             |
 |      | 27-5  | Werken aan onderzoek                                                        |             | 
 | 20   | 31-5  | Werken aan onderzoek                                                        |             |
+|      | 02-6  | Presentatie af, in GitHub
 |      | 03-6  | Presentaties                                                                |             |
 | 21   | 04-6  | Inleveren Eindverslag                                                       |             |
 |      | 10-6  | Eindgesprekken?                                                             |             |
