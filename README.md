@@ -48,14 +48,14 @@ Hidde: Verdieping in Epitope Predictions
 |      | 13-5  | Geen les                                                                    | Vrij        |
 | 18   | 19-5  | Inleveren eindverslag voor feedback                                         |             |
 |      | 20-5  | Verbeteren Eindverslag aan de hand van feedback                             |             |
-| 19   | 26-5  | Verbeteren Eindverslag aan de hand van feedback                             |             |
+| 21   | 26-5  | Verbeteren Eindverslag aan de hand van feedback                             |             |
 |      | 27-5  | Werken aan onderzoek                                                        |             | 
-| 20   | 31-5  | Werken aan onderzoek                                                        |             |
-|      | 02-6  | Presentatie af, in GitHub
+| 22   | 02-6  | Presentatie af, in GitHub                                                   |             |
 |      | 03-6  | Presentaties                                                                |             |
-| 21   | 04-6  | Inleveren Eindverslag                                                       |             |
-|      | 10-6  | Eindgesprekken?                                                             |             |
-| 22   | 11-6  | Eindgesprekken?                                                             | Toetsweek   |
-|      | 17-6  | Eindgesprekken?                                                             | Toetsweek   |
-| 23   | 18-6  | Einde keuzeproject 2                                                        |             |
-|      | 24-6  | Einde keuzeproject 2                                                        |             |
+|      | 04-6  | Inleveren Eindverslag                                                       |             |
+| 23   | 10-6  | Onbekend                                                                    |             |
+|      | 11-6  | Geen les                                                                    | Toetsweek   |
+| 24   | 17-6  | Geen les                                                                    | Toetsweek   |
+|      | 18-6  | Einde keuzeproject 2                                                        |             |
+| 25   | 24-6  | Eindgesprekken                                                              |             |
+|      | 25-6  | Eindgesprekken                                                              |             |   
