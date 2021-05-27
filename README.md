@@ -52,9 +52,9 @@ Hidde: Verdieping in Epitope Predictions
 |      | 27-5  | Werken aan onderzoek                                                        |             | 
 | 20   | 31-5  | Werken aan onderzoek                                                        |             |
 |      | 03-6  | Presentaties                                                                |             |
-| 21   | 07-6  | Inleveren Eindverslag                                                       |             |
+| 21   | 04-6  | Inleveren Eindverslag                                                       |             |
 |      | 10-6  | Eindgesprekken?                                                             |             |
-| 22   | 14-6  | Eindgesprekken?                                                             | Toetsweek   |
+| 22   | 11-6  | Eindgesprekken?                                                             | Toetsweek   |
 |      | 17-6  | Eindgesprekken?                                                             | Toetsweek   |
-| 23   | 21-6  | Einde keuzeproject 2                                                        |             |
+| 23   | 18-6  | Einde keuzeproject 2                                                        |             |
 |      | 24-6  | Einde keuzeproject 2                                                        |             |
