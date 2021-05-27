@@ -56,6 +56,6 @@ Hidde: Verdieping in Epitope Predictions
 | 23   | 10-6  | Onbekend                                                                    |             |
 |      | 11-6  | Geen les                                                                    | Toetsweek   |
 | 24   | 17-6  | Geen les                                                                    | Toetsweek   |
-|      | 18-6  | Einde keuzeproject 2                                                        |             |
+|      | 18-6  | Onbekend                                                                    |             |
 | 25   | 24-6  | Eindgesprekken                                                              |             |
 |      | 25-6  | Eindgesprekken                                                              |             |   
