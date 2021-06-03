@@ -52,9 +52,9 @@ Hidde: Verdieping in Epitope Predictions
 |      | 27-5  | Werken aan onderzoek                                                        |             | 
 | 22   | 02-6  | Presentatie af, in GitHub                                                   |             |
 |      | 03-6  | Presentaties                                                                |             |
-|      | 04-6  | Inleveren Eindverslag                                                       |             |
-| 23   | 10-6  | Onbekend                                                                    |             |
-|      | 11-6  | Geen les                                                                    | Toetsweek   |
+|      | 04-6  | Werken aan verslag                                                          |             |
+| 23   | 07-6  | Overige Presentaties                                                        |             |
+|      | 09-6  | Inleveren Eindverslag                                                       | Toetsweek   |
 | 24   | 17-6  | Geen les                                                                    | Toetsweek   |
 |      | 18-6  | Onbekend                                                                    |             |
 | 25   | 24-6  | Eindgesprekken                                                              |             |
